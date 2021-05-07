@@ -30,7 +30,7 @@ Você aprenderá muito mais sobre os conceitos de desenvolvimento front-end util
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_SPTech_Desenvolvimento_Front-end_DIO/tree/main/Cursos/Projetos%20%C3%A1geis%20com%20SCRUM">Projetos ágeis com SCRUM</a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_SPTech_Desenvolvimento_Front-end_DIO/tree/main/Cursos/Introdu%C3%A7%C3%A3o%20ao%20ReactJS"> Introdução ao ReactJS**</a><br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_SPTech_Desenvolvimento_Front-end_DIO/tree/main/Cursos/Desenvolvimento%20de%20aplica%C3%A7%C3%B5es%20para%20internet%20com%20ReactJS">Desenvolvimento de aplicações para internet com ReactJS**</a><br>
-✅ **<Práticas href="https://github.com/saldanhayg/Bootcamp_SPTech_Desenvolvimento_Front-end_DIO/tree/main/Cursos/Pr%C3%A1ticas%20avan%C3%A7adas%20em%20projetos%20com%20ReactJS">Práticas avançadas em projetos com ReactJS**</a><br>
+✅ **<a href="https://github.com/saldanhayg/Bootcamp_SPTech_Desenvolvimento_Front-end_DIO/tree/main/Cursos/Pr%C3%A1ticas%20avan%C3%A7adas%20em%20projetos%20com%20ReactJS">Práticas avançadas em projetos com ReactJS**</a><br>
 
 
 ## Desafios deste Bootcamp 
@@ -42,7 +42,7 @@ Você aprenderá muito mais sobre os conceitos de desenvolvimento front-end util
 ## Projetos deste Bootcamp 
 
 ✅ **<a href="https://github.com/saldanhayg/Projeto_Requisitando_dados_API_criptomoedas">Requisitando dados de uma API de criptomoedas**</a><br>
-✅ **<Desenvolvendo href="https://github.com/saldanhayg/PWA_React_mapear_dados_COVID19">Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo**</a><br>
+✅ **<a href="https://github.com/saldanhayg/PWA_React_mapear_dados_COVID19">Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo**</a><br>
 ✅ **<a href="https://saldanhayg.github.io/Jogo-da-Velha-JavaScript/">Criando seu próprio jogo da velha com HTML e Javascript</a>**<br>
 
 ## Tecnologia utilizadas 🚀:
